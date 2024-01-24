@@ -1,0 +1,14 @@
+.book-now-btn{
+    border-radius: 6px;
+    height: 30px;
+    width: 86px;
+    border: none;
+    background-color: rgb(92, 156, 184);
+    cursor: pointer;
+    color: white;
+    
+}
+
+.book-now-btn:hover{
+    background-color: rgb(147, 181, 195);
+}

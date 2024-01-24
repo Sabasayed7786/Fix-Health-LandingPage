@@ -1,0 +1,61 @@
+.app-contact-section {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 50px 0;
+  }
+  
+  
+  .contact-us-section {
+    color: white;
+    padding: 50px;
+    text-align: center;
+  }
+
+  .app-download-section{
+    
+    background-color: rgb(147, 181, 195);
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .app-download-section h2,
+  .contact-us-section h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: white;
+  }
+  
+  .app-download-section p,
+  .contact-us-section p {
+    font-size: 18px;
+    margin-bottom: 40px;
+    color: #555;
+  }
+  
+  .download-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 15px 30px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 20px;
+    
+  }
+  
+  .download-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .contact-details {
+    color: #fff;
+  }
+  
+  .phone-number {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
